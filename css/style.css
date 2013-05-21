@@ -144,7 +144,6 @@ table {
   font: 12px/17px Arial;
 }
 .btn a {
-<<<<<<< HEAD
   color: green;
   font: 12px/17px Arial;
 }
@@ -190,8 +189,4 @@ li:hover .back {
 }
 .back {
   -webkit-transform: rotateY(180deg);
-=======
-	color: red;
-	font: 12px/17px Arial;
->>>>>>> remotes/origin/master
 }
