@@ -188,5 +188,5 @@ li:hover .back {
   content: counter(item);
 }
 .back {
-  -webkit-transform: rotateY(180deg);
+  -webkit-transform: rotateY(190deg);
 }
